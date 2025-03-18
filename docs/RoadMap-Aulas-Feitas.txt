@@ -1,0 +1,42 @@
+Uma lista das aulas realizadas no curso de React:
+A) Iniciando no React:
+01 - Iniciando com React.
+
+OK F001
+OK F002
+OK F003
+OK F004
+F005
+F006
+
+02 - Estrutura e aplicação.
+
+F007
+F008
+F009
+F010
+F011
+F012
+F013
+F014
+F015
+F016
+F017
+F018
+
+03 - Motores do React.
+
+F019
+F020
+F021
+F022
+F023
+F028
+
+04 - Aprimorando a aplicação.
+
+F029
+F030
+F031
+
+B) Criando SPA com ReactJS:
